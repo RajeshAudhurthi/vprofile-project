@@ -1,0 +1,14 @@
+SNAP-REPO=vpro-snap-repo
+NEXUS-USER=admin
+NEXUS-PASS=devops123
+CENTRAL-REPO=vprofile-mave-central
+NEXUS-GRP-REPO=vprofile-maven-group
+NEXUSIP=172.31.81.161
+NEXUSPORT=8081
+RELEASE-REPO=vprofile-release
+
+Slack token
+xoxb-2827365923861-2832594994020-Um0zn7JufenllYGc9EuWvBDP 
+
+sonar-token
+6e6d5deb74f0281e745391b18bfd14a4e65ad5da
