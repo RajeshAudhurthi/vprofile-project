@@ -1,0 +1,26 @@
+SNAP-REPO=vpro-snap-repo
+NEXUS-USER=admin
+NEXUS-PASS=devops123
+CENTRAL-REPO=vprofile-mave-central
+NEXUS-GRP-REPO=vprofile-maven-group
+NEXUSIP=172.31.81.161
+NEXUSPORT=8081
+RELEASE-REPO=vprofile-release
+
+Slack token
+aaaaaaaaaaaaaaaaaaaaa
+
+sonar-token
+6e6d5deb74f0281e745391b18fdgdfgdbfd14a4e65ad5da
+
+Plugins Installed:
+
+Zentimestamp plugin
+Warnings Next Generation Plugin (checkstyle plugin)
+Violations plugin
+SonarQube Scanner for Jenkins
+Sonar Quality Gates Plugin
+Slack Notification Plugin
+Nexus Artifact Uploader
+Copy Artifact Plugin
+Build Pipeline Plugin
